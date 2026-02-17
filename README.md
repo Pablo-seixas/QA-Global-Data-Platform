@@ -23,7 +23,7 @@ Este repositório simula um ambiente corporativo de QA.
 
   Escopo de Testes
 
-  *APIs Testadas
+  APIs Testadas
 
 Endpoint: `/countries/`
 Método: GET
@@ -148,7 +148,7 @@ GitHub: [https://github.com/Pablo-seixas](https://github.com/Pablo-seixas)
 
 
 
-
+********************************************
 QA Global Data Platform) en
 
 
@@ -307,3 +307,4 @@ GitHub: [https://github.com/Pablo-seixas](https://github.com/Pablo-seixas)
 
 
  
+
