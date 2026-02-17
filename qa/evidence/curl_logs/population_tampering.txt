@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+date: Tue, 17 Feb 2026 19:02:39 GMT
+server: uvicorn
+content-length: 81
+content-type: application/json
+
+{"global_population":8100000000,"top_countries":["China","India","USA","Brazil"]}

@@ -1,0 +1,18 @@
+# Backend (não publicar)
+app/
+venv/
+run.sh
+requirements.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Relatórios pesados
+*.log
+*.html
+*.xml
+
+# Sistema
+.DS_Store
+
