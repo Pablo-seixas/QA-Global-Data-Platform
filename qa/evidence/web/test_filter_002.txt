@@ -1,0 +1,3 @@
+                        <h1>Gifts</h1>
+                        <a class="filter-category" href="/filter?category=Corporate+gifts">Corporate gifts</a>
+                        <a class="filter-category selected" href="/filter?category=Gifts">Gifts</a>

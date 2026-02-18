@@ -1,0 +1,5 @@
+
+real	1,48s
+user	0,04s
+sys	0,01s
+cpu	3%
